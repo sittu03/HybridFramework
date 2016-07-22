@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89816" started-at="2016-07-22T10:43:11Z" finished-at="2016-07-22T10:44:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89816" started-at="2016-07-22T10:43:11Z" finished-at="2016-07-22T10:44:41Z">
+      <class name="com.finance.testscripts.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.finance.testscripts.LoginTest@20c00612]" name="init" is-config="true" duration-ms="67892" started-at="2016-07-22T10:43:12Z" finished-at="2016-07-22T10:44:19Z">
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="performLogin()[pri:0, instance:com.finance.testscripts.LoginTest@20c00612]" name="performLogin" duration-ms="21787" started-at="2016-07-22T10:44:19Z" finished-at="2016-07-22T10:44:41Z">
+        </test-method> <!-- performLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.finance.testscripts.LoginTest@20c00612]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-07-22T10:44:41Z" finished-at="2016-07-22T10:44:41Z">
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.finance.testscripts.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
